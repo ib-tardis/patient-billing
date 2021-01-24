@@ -1,0 +1,13 @@
+{
+  "name": "tenant1",
+  "databaseConfig": {
+    "username": "root",
+    "password": "",
+    "driver": "com.mysql.jdbc.Driver",
+    "database": "db1",
+    "provider": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "serverTimezone": "UTC"
+  }
+}
